@@ -1,0 +1,4 @@
+NOMBRE | APELLIDO | SUELDO | SEGUROS SOCIALES
+
+--- MEDIAS POR RANGO ---
+Inicial: 0.00 | Medio: 0.00 | Senior: 0.00

@@ -1,0 +1,4 @@
+12345678A;Ana;López Pérez;32;1850.50
+87654321B;Juan;Martín Ruiz;45;2200.00
+12345679A;Carlos;lopez Gutierres;20;1200.20
+12345688A;kenji;Ñaño Ricaldi;21;1300.10

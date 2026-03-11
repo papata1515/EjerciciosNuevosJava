@@ -1,0 +1,12 @@
+========== INFORME ECONÓMICO DE LA EMPRESA ==========
+NOMBRE - APELLIDO - SUELDO - SEGUROS SOCIALES
+-----------------------------------------------------
+Ana - López Pérez - 1850.50€ - 333.09€
+Juan - Martín Ruiz - 2200.00€ - 396.00€
+Carlos - lopez Gutierres - 1200.20€ - 144.02€
+kenji - Ñaño Ricaldi - 1300.10€ - 156.01€
+
+--- SUELDOS MEDIOS POR RANGO ---
+Inicial (18-25): 1250.15€
+Medio (26-45): 2025.25€
+Senior (46+): 0.00€

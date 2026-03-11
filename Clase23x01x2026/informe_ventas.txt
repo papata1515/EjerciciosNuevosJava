@@ -1,0 +1,8 @@
+INFORME DE VENTAS ==================
+Producto más vendido: Raton (cantidad: 13)
+Total ventas: 4034.37 €
+Ticket medio: 192.11 €
+Detalle:
+- Laptop: 3601.50 €
+- Raton: 207.87 €
+- Teclado: 225.00 €

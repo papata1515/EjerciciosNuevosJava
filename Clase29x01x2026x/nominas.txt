@@ -1,0 +1,13 @@
+INFORME DE NÓMINAS
+==================
+CATEGORIA A (>3000€): Total 3200.00€ - Mejor: Ana Martín - Total Horas Extra en Categoría: 0
+CATEGORIA B (2000-3000€): Total 2500.00€ - Mejor: Luis Rodríguez - Total Horas Extra en Categoría: 12
+CATEGORIA C (<2000€): Total 0.00€ - Mejor: N/A - Total Horas Extra en Categoría: 0
+
+DETALLE EMPLEADOS:
+ID  | Nombre          | Sueldo Base | Horas Extra | Sueldo Total | Categoría
+----+-----------------+-------------+-------------+--------------+----------
+4   | Ana Martín      |     3200.00 |           0 |      3200.00 |    A
+5   | Luis Rodríguez  |     2200.00 |          12 |      2500.00 |    B
+
+GRAN TOTAL NOMINAS: 5700.00€
